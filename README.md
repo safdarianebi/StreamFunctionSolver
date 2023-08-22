@@ -5,6 +5,9 @@
 Gauss-Seidel, line Gauss-Seidel, and TDM methods.
 - Step 3: Visualizing the results.
 
-- The elbow geometery is equal to image below:
+The stream function could be seen below:
+![stream_function]()
+The elbow geometry is equal to image below:
+![elbow_geometry]()
 
 
