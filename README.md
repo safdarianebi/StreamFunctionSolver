@@ -8,6 +8,6 @@ Gauss-Seidel, line Gauss-Seidel, and TDM methods.
 The stream function could be seen below:
 ![stream_function]()
 The elbow geometry is equal to image below:
-![elbow_geometry]()
+![elbow_geometry](https://github.com/safdarianebi/StreamFunctionSolver/blob/main/elbow_geometry.png)
 
 
